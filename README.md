@@ -1,1 +1,1 @@
-# coolbooc.github.io
+# github.io
